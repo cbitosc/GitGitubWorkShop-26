@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Nischal  
+- Roll Number: 160125748111
+- Section: CSM-2
+- GitHub Username: Nishu-69
