@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Gande Adhrit
+- Roll Number: 160125733159
+- Section: CSE-3
+- GitHub Username: Adhrit15
