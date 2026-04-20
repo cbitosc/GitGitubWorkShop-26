@@ -1,2 +1,4 @@
 Hello, my name is Prithika T.
 I am currently on branch: CSE 3.
+Section: 3.
+github username: Preethika1312.
