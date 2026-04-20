@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: kaushik reddy chiduruppa
+- Roll Number: 160125737151
+- Section: IT3
+- GitHub Username: kaushikreddy935
