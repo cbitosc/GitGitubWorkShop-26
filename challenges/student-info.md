@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Medha Reddy Munukuntla
+- Roll Number: 160125733325
+- Section: cse 5
+- GitHub Username: medhareddymunukuntla
