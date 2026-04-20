@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: EDDU SPANDANA
+- Roll Number: 160125733297
+- Section: CSE-5
+- GitHub Username:edduspandana123 
