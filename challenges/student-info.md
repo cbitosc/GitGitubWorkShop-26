@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: ganga
+- Roll Number: 160125748103
+- Section: csm2
+- GitHub Username: mallika200704
