@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
+- Name: swathi K
 - Roll Number: 
 - Section: 
 - GitHub Username: 
