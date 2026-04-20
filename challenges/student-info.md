@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Gidugu surya kruteesh
+- Roll Number: 160125737161
+- Section: IT3
+- GitHub Username: suryakruteesh-wq
