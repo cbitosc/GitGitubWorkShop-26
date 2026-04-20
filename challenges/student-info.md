@@ -1,6 +1,7 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: M.Lokesh
+- Roll Number: 1601-25-748-041
+- Section: csm-01
+- 
+- GitHub Username: lokeshmudavath159
