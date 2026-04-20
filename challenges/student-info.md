@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: S.Mandeep Kour Bedi
+- Roll Number: 160125733191
+- Section: CSE-3
+- GitHub Username: mkour12
