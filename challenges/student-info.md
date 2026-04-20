@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: K.Geetha madhuri
+- Roll Number: 160125748029
+- Section: CSM 1
+- GitHub Username: geethamadhurikagana
