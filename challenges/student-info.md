@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Y.Crismitha Clary
+- Roll Number: 160125733344
+- Section: CSE-5
+- GitHub Username: Crismitha
