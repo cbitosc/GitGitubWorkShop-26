@@ -1,2 +1,4 @@
-Hello, my name is YOUR_NAME.
-I am currently on branch: YOUR_BRANCH.
+Hello, my name is Prithika T.
+I am currently on branch: CSE 3.
+Section: 3.
+github username: Preethika1312.
