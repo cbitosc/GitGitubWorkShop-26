@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: shloka
+- Roll Number: 111
+- Section: it3
+- GitHub Username: shlokareddy1102
