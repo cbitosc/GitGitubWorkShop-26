@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: kiran gella
+- Roll Number: 160125733160
+- Section: CSE3
+- GitHub Username: kiran gella
