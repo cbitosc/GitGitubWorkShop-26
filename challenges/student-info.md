@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Sevella Vikranth Reddy
+- Roll Number: 1601-25-733-337
+- Section: CSE-05
+- GitHub Username: sevellavikranthreddy
