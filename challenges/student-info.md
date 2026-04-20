@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: jayanth kumar
+- Roll Number: 303
+- Section: cse 5
+- GitHub Username: jayanth-nav 
