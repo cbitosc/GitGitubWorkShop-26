@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: advitha reddy
+- Roll Number: 160125733342
+- Section: cse5
+- GitHub Username: vanteruadvithareddie
