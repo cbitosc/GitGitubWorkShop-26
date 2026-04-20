@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: nikhithareddy
+- Roll Number: 160125733290
+- Section: cse 5
+- GitHub Username:nikhithareddybasireddy-cell 
