@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Matam Rupesh
+- Roll Number: 160125733180
+- Section: CSE-3
+- GitHub Username: rockstarkenter-dot
