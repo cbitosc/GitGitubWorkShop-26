@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Ch Jyothi Vyshnavi
+- Roll Number: 160125733156
+- Section: Cse-3
+- GitHub Username: chivukulajv
