@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: preetam
+- Roll Number: 160125771071
+- Section: aids 2
+- GitHub Username: preetam169
