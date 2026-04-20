@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Muppani Srinidhi
+- Roll Number: 160125771110
+- Section: AIDS-02
+- GitHub Username: srinidhimuppani-ops
