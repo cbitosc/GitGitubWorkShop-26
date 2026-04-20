@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Anirudh Malladi
+- Roll Number: 160125733178
+- Section: cse-3
+- GitHub Username: darkdevil2324
