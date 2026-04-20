@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name:K BAL CHANDAR REDDY 
+- Roll Number: 160125733308
+- Section: CSE5
+- GitHub Username: KBALCHANDARREDDY
