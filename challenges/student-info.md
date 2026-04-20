@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Nischal
+- Roll Number: 1601-25-771-116
+- Section: AID-2
+- GitHub Username: NISCHAL
