@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: c.vinay reddy
+- Roll Number: 160125771086
+- Section: ai&ds-2
+- GitHub Username: adapapreetama
