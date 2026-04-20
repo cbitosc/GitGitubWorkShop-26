@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
+- Name: swara
 - Roll Number: 
 - Section: 
 - GitHub Username: 
