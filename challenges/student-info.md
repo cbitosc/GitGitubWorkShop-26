@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: hansini
+- Roll Number: 160125733304
+- Section: CSE-5
+- GitHub Username: Koney1807
