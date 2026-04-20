@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Rahul Reddy I
+- Roll Number: 160125737165
+- Section: IT-3
+- GitHub Username: RahulReddyI 
