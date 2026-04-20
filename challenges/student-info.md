@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name:Srikar Manthena 
+- Roll Number: 319
+- Section: cse5
+- GitHub Username: srikardot99
