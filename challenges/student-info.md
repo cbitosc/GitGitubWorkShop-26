@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: D.Vanshika
+- Roll Number: 1601-25-771-090
+- Section: AID-2
+- GitHub Username: devarashettygudiya 
