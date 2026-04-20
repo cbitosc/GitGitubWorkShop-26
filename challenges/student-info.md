@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: K.Hari Aditya
+- Roll Number: 1601 25 748 025
+- Section: CSM 1
+- GitHub Username: Hariadi5543R
