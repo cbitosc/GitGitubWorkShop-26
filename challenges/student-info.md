@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: vivek
+- Roll Number:160125733141 
+- Section: cse3
+- GitHub Username:vivekadunuri-40 
