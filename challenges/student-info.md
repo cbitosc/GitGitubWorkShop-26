@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: K. Sai Maanas
+- Roll Number: 160125733234
+- Section: CSE 4
+- GitHub Username: SaiMaanas2015
