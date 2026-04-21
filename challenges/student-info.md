@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: M. DIVYA
+- Roll Number: 160125733041
+- Section: CSE-1
+- GitHub Username:Divyamada12 
