@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Guggula Bharath Kumar
+- Roll Number: 160125737023
+- Section: IT-1
+- GitHub Username: guggulabharathkumar
