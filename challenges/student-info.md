@@ -1,6 +1,8 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: deepak
+  
+- Roll Number: 160125771037
+- Section: AIDS-1
+- GitHub Username: deepaknallatheegala
+- 
