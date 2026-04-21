@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: M.kovid sreshta
+- Roll Number: 160125749029
+- Section: CIC-1
+- GitHub Username: kovidexe2099
