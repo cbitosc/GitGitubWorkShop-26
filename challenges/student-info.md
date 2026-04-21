@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: NAGADESI HARIDEEP
+- Roll Number: 160125749036
+- Section: CIC
+- GitHub Username: HANNU-arch
