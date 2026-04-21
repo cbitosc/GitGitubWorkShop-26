@@ -1,6 +1,7 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: nabeela naaz
+- Roll Number:160125737038
+- Section: it-01
+- GitHub Username: nabeelanaaz776
+  
