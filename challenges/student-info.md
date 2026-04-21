@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Kouthrik
+- Roll Number: 160125733228
+- Section: CSE-4
+- GitHub Username:kouthrik 
