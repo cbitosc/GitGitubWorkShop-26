@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Vindya Yelisetty
+- Roll Number: 160125749062
+- Section: cic
+- GitHub Username: vindyayelisetty
