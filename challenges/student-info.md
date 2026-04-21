@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Thrinay Gundekari
+- Roll Number: 160125733023
+- Section: CSE 01
+- GitHub Username: thrinay1314
