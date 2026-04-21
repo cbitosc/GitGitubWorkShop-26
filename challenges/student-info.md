@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Anvesh Mamidi
+- Roll Number: 1601-25-737-098
+- Section: INF-2
+- GitHub Username: Mamidi_Anvesh
