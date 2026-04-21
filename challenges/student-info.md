@@ -1,6 +1,7 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Narra sai shashank
+- Roll Number: 160125733046
+- Section: CSE-1
+- GitHub Username: narrasaishashank
+  
