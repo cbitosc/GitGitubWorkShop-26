@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Sowmit Ravi
+- Roll Number: 160125733057
+- Section: CSE 1
+- GitHub Username: Sowmitravi
