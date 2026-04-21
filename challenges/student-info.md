@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Tharun tej Kongara
+- Roll Number: 160125733061
+- Section: CSE-1
+- GitHub Username: tharuntejkongara-cmyk
