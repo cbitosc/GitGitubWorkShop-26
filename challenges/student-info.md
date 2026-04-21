@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
+- Name: abhinaya 
+- Roll Number: jd 
 - Section: 
 - GitHub Username: 
