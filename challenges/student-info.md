@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: mohammed rayyan osman 
+- Roll Number: 160125733246
+- Section: cse4
+- GitHub Username:rayyam166 
