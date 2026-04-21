@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Sharon
+- Roll Number: 160125737104
+- Section: IT-2
+- GitHub Username: sharonmedithi0304 
