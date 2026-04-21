@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Srivamshika Goundla 
+- Roll Number: 160125737128
+- Section: IT-2
+- GitHub Username: Srivamshika1624
