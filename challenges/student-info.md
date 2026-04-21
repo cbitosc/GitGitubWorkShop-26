@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Saanvi Deepak Bandi
+- Roll Number: 160125771006
+- Section: AI&DS1
+- GitHub Username: saanvideepak
