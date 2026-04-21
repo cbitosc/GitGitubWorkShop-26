@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Snehitha Devara
+- Roll Number: 160125733056
+- Section: CSE-1
+- GitHub Username: snehithadevara
