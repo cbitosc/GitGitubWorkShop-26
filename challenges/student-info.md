@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: K.LOHITH
+- Roll Number: 1601-25-771-030
+- Section: AI&DS-1
+- GitHub Username: lohithreddykamuni-ship-it
