@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: LAKSHMI VIGHNA THASWIK P
+- Roll Number: 160125737040
+- Section: IT-1
+- GitHub Username: plvt7002
