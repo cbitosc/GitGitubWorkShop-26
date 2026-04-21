@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Ethan Vaibhav
+- Roll Number: 160125771016
+- Section: AIDS 1
+- GitHub Username: ethanvaibhav6-hub
