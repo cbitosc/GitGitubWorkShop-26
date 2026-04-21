@@ -11,7 +11,7 @@ This repository contains hands-on Git and GitHub puzzles for 1st year Computer S
 
 ## How To Use This Repo
 1. Clone the repository.
-2. Open the `challenges` folder.
+2. Open the `challenges` folder.eirjerej
 3. Solve challenges in order (`01` to `08`).
 4. For each challenge:
 	- Read its `README.md`
