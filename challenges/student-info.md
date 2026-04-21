@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: pranati Thumu
+- Roll Number: 160125771058
+- Section: aid1
+- GitHub Username: PranatiThumu
