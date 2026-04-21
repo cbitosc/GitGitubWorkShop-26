@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Penta Arush
+- Roll Number: 160125733254
+- Section: CSE-4
+- GitHub Username: Arush9679
