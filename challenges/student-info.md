@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Saketh Nimmakanti
+- Roll Number: 160125733251
+- Section: CSE-4
+- GitHub Username: saketh0119
