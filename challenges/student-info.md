@@ -1,6 +1,7 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: shivamani
+- Roll Number: 160125733022
+- Section: cse1
+- GitHub Username: gundaganishivamani9889-hub
+- 
