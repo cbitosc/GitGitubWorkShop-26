@@ -2,7 +2,7 @@
 
 This repository contains hands-on Git and GitHub puzzles for 1st year Computer Science Engineering students.
 
-## Learning Goals
+## Learning Goals:
 - Understand basic Git workflow (add, commit, push)
 - Use branches safely
 - Resolve merge conflicts
