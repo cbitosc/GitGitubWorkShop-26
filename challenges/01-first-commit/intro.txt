@@ -1,2 +1,3 @@
-Hello, my name is YOUR_NAME.
-I am currently on branch: YOUR_BRANCH.
+Hello, my name is Pranavi Kosgi.
+I am currently on branch: main.
+I am ready to learn Git.
