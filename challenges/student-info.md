@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: S.Shrenik
+- Roll Number: 160125749053
+- Section: CIC
+- GitHub Username: shrenik111
