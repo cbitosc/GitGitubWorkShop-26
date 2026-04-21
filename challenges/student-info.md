@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: KURUGUNTLA SHARMITHA REDDY
+- Roll Number: 1601225733039
+- Section: CSE-1
+- GitHub Username: connect2sharmitha
