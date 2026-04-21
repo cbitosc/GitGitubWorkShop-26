@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: shashank katta
+- Roll Number: 160125749026
+- Section: CIC
+- GitHub Username: shashank19
