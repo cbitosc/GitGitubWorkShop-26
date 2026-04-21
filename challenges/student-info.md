@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: c sandhya yadav
+- Roll Number:160125737010 
+- Section: IT 1
+- GitHub Username:chipurisandhyayadav 
