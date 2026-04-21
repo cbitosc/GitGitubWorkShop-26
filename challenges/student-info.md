@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
+- Name: dufyu
 - Roll Number: 
 - Section: 
 - GitHub Username: 
