@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: sai nipuna
+- Roll Number: 1601-25-737-083
+- Section: 2
+- GitHub Username: Sai Nipuna
