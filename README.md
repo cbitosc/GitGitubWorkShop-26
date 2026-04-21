@@ -1,4 +1,4 @@
-# Git & GitHub Workshop: Challenge Arena
+# Git & GitHub Workshop: Challenge Arena:
 
 This repository contains hands-on Git and GitHub puzzles for 1st year Computer Science Engineering students.
 
