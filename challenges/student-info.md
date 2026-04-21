@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: pranay
+- Roll Number: 160123748048
+- Section: c4
+- GitHub Username: pranay
