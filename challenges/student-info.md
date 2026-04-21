@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Sampreeth rachuri  
+- Roll Number: 046
+- Section: cic 1
+- GitHub Username: rachurisampreeth
