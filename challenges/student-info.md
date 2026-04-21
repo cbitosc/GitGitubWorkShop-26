@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: B Pranav
+- Roll Number: 160125771005
+- Section: AID-1
+- GitHub Username: PranavB2007
