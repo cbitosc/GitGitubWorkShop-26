@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name:Chandana Priya 
+- Roll Number: 160125771055
+- Section: AIDS-01
+- GitHub Username: chandanapriyagit
