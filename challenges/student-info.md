@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Aravind
+- Roll Number: 160125733011
+- Section: CSE01
+- GitHub Username: aravindbhupathi2005
