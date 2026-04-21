@@ -32,4 +32,4 @@ This repository contains hands-on Git and GitHub puzzles for 1st year Computer S
 - Hard challenge: 20 points
 - Bonus for clean commit history: +10
 
-Good luck and happy committing.
+Good luck and happy ...hellot
