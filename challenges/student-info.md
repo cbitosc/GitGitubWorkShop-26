@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Anugu shashi vardhan reddy
+- Roll Number: 160125733004
+- Section: CSE-1
+- GitHub Username: shashivardhanreddy2
