@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: GONDI JITHENDAR
+- Roll Number: 160125749016
+- Section: CIC
+- GitHub Username: gondijithendar007-collab
