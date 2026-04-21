@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Karthiv Kalyan
+- Roll Number: 160125771043
+- Section: AID-1
+- GitHub Username: karthivv
