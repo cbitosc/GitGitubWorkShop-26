@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: S.Chandra Shekar Reddy
+- Roll Number: 160125749054
+- Section: CIC
+- GitHub Username: sirigirichandrashekarreddy
