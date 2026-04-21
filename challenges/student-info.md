@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Moksha Reddy
+- Roll Number: 160125733040
+- Section: cse-1
+- GitHub Username: mokshamacharla

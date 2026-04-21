@@ -1,2 +1,4 @@
-Hello, my name is YOUR_NAME.
-I am currently on branch: YOUR_BRANCH.
+Hello, my name is Moksha Reddy.
+I am currently on branch: cse.
+i am ready to learn git.
+challenge 1: completed first commit quest successfully.
