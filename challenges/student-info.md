@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: karangala shirisha 
+- Roll Number: 160125733236
+- Section: cse 4
+- GitHub Username: shirishakarangala
