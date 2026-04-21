@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Pranav Vudiga
+- Roll Number: 160125749063
+- Section: CIC
+- GitHub Username: vudigapranav
