@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: K Sai Rithvik Reddy
+- Roll Number: 1601-25-749-027
+- Section: CIC
+- GitHub Username: Kritt29
