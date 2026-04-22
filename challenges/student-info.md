@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: B.Asmitha
+- Roll Number: 160125733147
+- Section: CSE-3
+- GitHub Username: asmithabakka
