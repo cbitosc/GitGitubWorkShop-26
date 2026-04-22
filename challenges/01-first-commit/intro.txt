@@ -1,2 +1,3 @@
 Hello, my name is B.Asmitha.
 I am currently on branch: CSE.
+I am ready to learn GIT.
