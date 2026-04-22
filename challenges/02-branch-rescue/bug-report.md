@@ -1,5 +1,5 @@
 # Login Bug Ticket
 
-STATUS: OPEN
-
+STATUS: FIXED
+ fixed by <R.Uday>
 Issue: Login fails for users with trailing spaces in username.
