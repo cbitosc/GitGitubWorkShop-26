@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Saanvi Ponagoti
+- Roll Number: 160125749049
+- Section: CIC 01
+- GitHub Username: SaanviPonagoti
