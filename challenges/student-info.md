@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: P.Gayathri
+- Roll Number: 160125771045
+- Section: AIDS-1
+- GitHub Username: gayathripusala08-dot
