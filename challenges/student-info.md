@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: M.Saikumar
+- Roll Number:160125749031
+- Section: CIC
+- GitHub Username: medaboinasaikumar
