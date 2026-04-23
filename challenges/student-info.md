@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: J Sai Medha
+- Roll Number: 160125733026
+- Section: cse-1
+- GitHub Username: Medha4444
