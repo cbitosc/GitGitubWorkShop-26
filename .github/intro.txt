@@ -1,0 +1,3 @@
+Hello, my name is Arugapalli Sree Sai Akanksha.
+I am currently on branch: CSE.
+i am ready to learn git
