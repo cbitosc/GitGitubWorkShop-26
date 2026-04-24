@@ -1,2 +1,3 @@
 Hello, my name is PINNAPU_REDDY_ARUN_KUMAR_REDDY.
 I am currently on branch: CIC.
+I am ready to learn Git.
