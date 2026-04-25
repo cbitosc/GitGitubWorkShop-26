@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Kanchan Choudhary
+- Roll Number: 1601-25-749-024
+- Section: CIC
+- GitHub Username: kanchanCh 
