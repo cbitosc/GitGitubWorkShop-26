@@ -1,5 +1,2 @@
-# Release Notes
-
-## Features
-- 
-- 
+- Added user login feature
+- Improved performance of dashboard
