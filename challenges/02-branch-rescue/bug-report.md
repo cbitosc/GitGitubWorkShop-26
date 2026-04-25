@@ -4,4 +4,4 @@ STATUS: FIXED
 
 Issue: Login fails for users with trailing spaces in username.
 
-Fixed by: Aulya Masuna.
+Fixed by: Amulya Masuna.
