@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: sai vishlesh
+- Roll Number: 160125749050
+- Section: CIC
+- GitHub Username: saivishlesh2305
