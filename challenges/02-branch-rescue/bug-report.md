@@ -1,4 +1,5 @@
 # Login Bug Ticket
+Fixed by ruthwik raj
 
 STATUS: OPEN
 
