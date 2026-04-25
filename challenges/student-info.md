@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: S.Spoorthi
+- Roll Number: 160125733193
+- Section: CSE-3
+- GitHub Username: spoorthisambu
