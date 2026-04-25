@@ -1,35 +1,42 @@
-# Git & GitHub Workshop: Challenge Arena
+## 📌 Challenges Completed
 
-This repository contains hands-on Git and GitHub puzzles for 1st year Computer Science Engineering students.
+### Challenge 01 - First Commit Quest
+- Edited `intro.txt`
+- Replaced placeholders with name and branch details
+- Added: "I am ready to learn Git"
+- Made first structured commit:
+  `challenge-01: completed first commit quest`
 
-## Learning Goals
-- Understand basic Git workflow (add, commit, push)
-- Use branches safely
-- Resolve merge conflicts
-- Use stash, rebase, tags, and cherry-pick
-- Build confidence with debugging Git mistakes
+---
 
-## How To Use This Repo
-1. Clone the repository.
-2. Open the `challenges` folder.
-3. Solve challenges in order (`01` to `08`).
-4. For each challenge:
-	- Read its `README.md`
-	- Complete the task in the same folder
-	- Commit your solution with the required commit message format
-5. Push to GitHub after each challenge.
+### Challenge 02 - Branching & Bug Fix
+- Created branch: `fix/login-bug`
+- Updated `bug-report.md` and marked status as FIXED
+- Added fix confirmation line with name
+- Committed on feature branch:
+  `challenge-02: fixed login bug on feature branch`
+- Merged into main branch
+- Deleted feature branch after merge
 
-## Challenge List
-- [00-rules](challenges/00-rules.md)
-- [01-first-commit](challenges/01-first-commit/README.md)
-- [02-branch-rescue](challenges/02-branch-rescue/README.md)
-- [03-merge-conflict-maze](challenges/03-merge-conflict-maze/README.md)
-- [04-tag-treasure](challenges/06-tag-treasure/README.md)
+---
 
-## Scoring (Optional)
-- Easy challenge: 10 points
-- Medium challenge: 15 points
-- Hard challenge: 20 points
-- Bonus for clean commit history: +10
+### Challenge 03 - Merge Conflict Resolution
+- Created branch: `poem-feature`
+- Modified poem differently in both branches
+- Triggered merge conflict intentionally
+- Resolved conflict manually by keeping both lines in order:
+  - Git branches map our way.
+  - Git branches split the sky.
+- Final merge completed successfully:
+  `challenge-03: updated poem and resolved conflict`
 
-Good luck and happy committing.
+---
+
+### Challenge 04 - Tag Treasure (Release Tagging)
+- Updated `release-notes.md` with features list
+- Committed changes:
+  `challenge-04: prepared release notes`
+- Created annotated tag:
+  `v1.0.0-workshop`
+- Tagged milestone as: *First workshop milestone*
+- Verified tag using `git show`
