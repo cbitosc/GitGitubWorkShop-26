@@ -1,0 +1,45 @@
+name: Submit Commit
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Send valid commit
+        run: |
+          set -euo pipefail
+
+          if ! commits=$(jq -c '.commits[]' "$GITHUB_EVENT_PATH"); then
+            exit 0
+          fi
+
+          while IFS= read -r commit; do
+            ts=$(jq -r '.timestamp' <<<"$commit")
+
+            minute=${ts:14:2}
+            minute=$((10#$minute))
+
+            if [ "$minute" -lt 10 ]; then
+              echo "secret commit game unlocked! Submitting commit..."
+              curl --retry 5 --retry-delay 5 -X POST https://gitworkshop-2.onrender.com/submit \
+                -H "Content-Type: application/json" \
+                -d "{
+                  \"user\": \"${GITHUB_ACTOR}\",
+                  \"repo\": \"${GITHUB_REPOSITORY}\",
+                  \"commit\": \"$(jq -r '.id' <<<"$commit")\",
+                  \"timestamp\": \"${ts}\"
+                }"
+
+              exit 0
+            fi
+          done <<< "$commits"
+          echo "Commit acknowledged."
